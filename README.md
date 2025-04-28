@@ -24,3 +24,6 @@ File or Folder | Purpose
 
 Learn more at https://cap.cloud.sap/docs/get-started/.
 # service_definition
+# created the app using the cds init service_definition
+# always run the npm i on the project structure
+# add the data to the app using "cds add data" it will basically create the empty structure for entitys corresponding data
